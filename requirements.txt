@@ -30,3 +30,4 @@ urllib3==1.24.1
 Werkzeug==0.14.1
 wrapt==1.10.11
 simplejson==3.16.0
+setuptools==39.1.0

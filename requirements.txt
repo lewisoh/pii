@@ -1,2 +1,3 @@
 --find-links wheelhouse64
 
+pip install wheelhouse64
